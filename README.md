@@ -5,7 +5,7 @@ These are the design files for the TinyCircuits ASD2113 Rev3 PCB.  This is a Tin
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-nrf8001-bluetooth-low-energy.html
+For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-bluetooth-low-energy-nordic.html
 
 
 
