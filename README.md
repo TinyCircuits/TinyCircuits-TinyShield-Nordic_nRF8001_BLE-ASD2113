@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield Nordic nRF8001 Bluetooth LE Board
 # ASD2113 Rev3
 
-These are the design files for the TinyCircuits ASD2113 Rev3 PCB.  This is a TinyShield board that has a Nordic Semiconductor nRF8001 Bluetooth Low Energy (or Smart) 4.0 chipset, local power supply and level shifters to connect between the TinyDuino and the Bluetooth LE Module. 
+The design files are located under design_files/ for the TinyCircuits ASD2113 Rev3 PCB.  This is a TinyShield board that has a Nordic Semiconductor nRF8001 Bluetooth Low Energy (or Smart) 4.0 chipset, local power supply and level shifters to connect between the TinyDuino and the Bluetooth LE Module. 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-bluetooth-low-energy-nordic.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/communication/products/bluetooth-low-energy-nordic-tinyshield
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
