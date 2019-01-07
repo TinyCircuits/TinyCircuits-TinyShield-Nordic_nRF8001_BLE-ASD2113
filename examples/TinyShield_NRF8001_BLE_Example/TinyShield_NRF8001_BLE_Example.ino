@@ -1,14 +1,17 @@
-//-------------------------------------------------------------------------------
-//  TinyCircuits NRF8001 UART Example Sketch
-//  Last Updated 27 May 2016
-//
-//  This demo sets up the NRF8001 for Nordic's BLE virtual UART connection, and
-//  can pass data between the Arduino serial monitor and Nordic nRF UART V2.0 app
-//  or another compatible BLE terminal. Now supports TinyScreen+/SAMD21 boards.
-//
-//  Written by Ben Rose, TinyCircuits http://TinyCircuits.com
-//
-//-------------------------------------------------------------------------------
+/*
+  TinyCircuits NRF8001 UART Example Sketch
+
+  This demo sets up the NRF8001 for Nordic's BLE virtual UART connection, and
+  can pass data between the Arduino serial monitor and Nordic nRF UART V2.0 app
+  or another compatible BLE terminal. Now supports TinyScreen+/SAMD21 boards.
+
+  Written 27 May 2016
+  By Ben Rose
+  Modified 01 January 2019
+  By Hunter Hykes
+
+  https://TinyCircuits.com
+*/
 
 //when using this project in the Arduino IDE, set the following to false and rename file UART.h to UART.ino
 #define CODEBENDER true
