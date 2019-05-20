@@ -1,5 +1,5 @@
 /*
-  TinyCircuits NRF8001 UART Example Sketch
+  TinyCircuits NRF8001 BLE TinyShield Example Sketch
 
   This demo sets up the NRF8001 for Nordic's BLE virtual UART connection, and
   can pass data between the Arduino serial monitor and Nordic nRF UART V2.0 app
